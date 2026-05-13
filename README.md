@@ -14,10 +14,10 @@
 
 ## Документация
 
-- [Скриншот 1: Terraform outputs](screenshot/1_terraform_output.png)
-- [Скриншот 2: Ping с Public VM](screenshot/2_public_vm_ping.png)
-- [Скриншот 3: Ping с Private VM](screenshot/3_private_vm_ping.png)
-- [Скриншот 4: Таблица маршрутизации](screenshot/4_route_table.png)
+- [Скриншот 1: Terraform outputs](screenshot/1.png)
+- [Скриншот 2: Ping с Public VM](screenshot/2.png)
+- [Скриншот 3: Ping с Private VM](screenshot/3.png)
+- [Скриншот 4: Таблица маршрутизации](screenshot/4.png)
 
 ## Комментарии
 
