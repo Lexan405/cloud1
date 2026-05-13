@@ -16,11 +16,11 @@
 
 ![Скриншот 1: Terraform outputs](screnshot/1.png)
 
-![Скриншот 2: Ping с Public VM](screenshot/2.png)
+![Скриншот 2: Ping с Public VM](screnshot/2.png)
 
-![Скриншот 3: Ping с Private VM](screenshot/3.png)
+![Скриншот 3: Ping с Private VM](screnshot/3.png)
 
-![Скриншот 4: Таблица маршрутизации](screenshot/4.png)
+![Скриншот 4: Таблица маршрутизации](screnshot/4.png)
 
 ## Комментарии
 
