@@ -1,0 +1,88 @@
+
+---
+
+### `.gitignore`
+
+```gitignore
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Directory for plugins
+.terraform/
+.terraform.lock.hcl
+
+# Variable files (secrets!)
+*.tfvars
+*.tfvars.json
+terraform.tfvars
+terraform.tfvars.json
+
+# Yandex Cloud service account keys
+*.json
+authorized_key.json
+service_account_key.json
+
+# SSH private keys
+*.pem
+*.key
+id_rsa
+id_ed25519
+id_ecdsa
+id_dsa
+*.ppk
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.cproject
+*.sublime-*
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Text files (по запросу)
+*.txt
+
+# Backup directories
+backup/
+backups/
+*.bak
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Terraform plan files
+*.tfplan
+
+# Sensitive data
+secrets/
+credentials/
